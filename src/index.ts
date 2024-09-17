@@ -1,0 +1,16 @@
+export { poseidon1 } from "./instances/poseidon1";
+export { poseidon2 } from "./instances/poseidon2";
+export { poseidon3 } from "./instances/poseidon3";
+export { poseidon4 } from "./instances/poseidon4";
+export { poseidon5 } from "./instances/poseidon5";
+export { poseidon6 } from "./instances/poseidon6";
+export { poseidon7 } from "./instances/poseidon7";
+export { poseidon8 } from "./instances/poseidon8";
+export { poseidon9 } from "./instances/poseidon9";
+export { poseidon10 } from "./instances/poseidon10";
+export { poseidon11 } from "./instances/poseidon11";
+export { poseidon12 } from "./instances/poseidon12";
+export { poseidon13 } from "./instances/poseidon13";
+export { poseidon14 } from "./instances/poseidon14";
+export { poseidon15 } from "./instances/poseidon15";
+export { poseidon16 } from "./instances/poseidon16";
