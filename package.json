@@ -4,7 +4,7 @@
   "description": "Poseidon implementation for the BLS12-381 elliptic curve",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "repository": "https://github.com/jmagan/poseidon-bls12381",
+  "repository": "git+https://github.com/jmagan/poseidon-bls12381.git",
   "author": "Juan Salvador Magán Valero",
   "license": "MIT",
   "keywords": [
