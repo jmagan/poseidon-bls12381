@@ -1,4 +1,4 @@
-# #️⃣ Poseidon for BLS12-381 #️⃣
+# Poseidon for BLS12-381
 
 Implementation of the ZK-friendly Poseidon hash in TypeScript. The hash is prepared for the elliptic curve BLS12-381.
 
