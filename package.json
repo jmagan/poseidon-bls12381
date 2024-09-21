@@ -1,6 +1,6 @@
 {
   "name": "poseidon-bls12381",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Poseidon implementation for the BLS12-381 elliptic curve",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
